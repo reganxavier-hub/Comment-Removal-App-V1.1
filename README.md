@@ -38,7 +38,7 @@ Acknowledgments
 Icons by Iconfinder
 Regex patterns for comment removal
 Contact
-For any questions or feedback, please contact [Your Name] at [your.email@example.com].
+For any questions or feedback, please contact Regan at reganxavier.edu@gmail.com
 
 Release History
 Version 1.0.0 (MM/DD/YYYY)
