@@ -41,7 +41,7 @@ Contact
 For any questions or feedback, please contact Regan at reganxavier.edu@gmail.com
 
 Release History
-Version 1.0.0 (MM/DD/YYYY)
+Version 1.0.0 (09/09/2023)
 Initial release
 
 Changelog
